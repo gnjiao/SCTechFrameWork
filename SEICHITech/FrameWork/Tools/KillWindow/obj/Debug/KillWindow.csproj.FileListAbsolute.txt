@@ -1,0 +1,15 @@
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\ISP\bin\Debug\KillWindow.dll
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\ISP\bin\Debug\KillWindow.pdb
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\Tools\KillWindow\obj\Debug\KillWindow.csprojAssemblyReference.cache
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\Tools\KillWindow\obj\Debug\KillWindow.csproj.CoreCompileInputs.cache
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\Tools\KillWindow\obj\Debug\KillWindow.dll
+F:\工作文件夹\EnskyTool\CodeBase\Product\Jaeger\Tools\KillWindow\obj\Debug\KillWindow.pdb
+F:\Richard\SEICHITech\Product\GVODeMura\bin\Debug\KillWindow.dll
+F:\Richard\SEICHITech\Product\GVODeMura\bin\Debug\KillWindow.pdb
+F:\Richard\SEICHITech\FrameWork\Tools\KillWindow\obj\Debug\KillWindow.dll
+F:\Richard\SEICHITech\FrameWork\Tools\KillWindow\obj\Debug\KillWindow.pdb
+F:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\KillWindow.dll
+F:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\KillWindow.pdb
+F:\Demura架构\SEICHITech\FrameWork\Tools\KillWindow\obj\Debug\KillWindow.dll
+F:\Demura架构\SEICHITech\FrameWork\Tools\KillWindow\obj\Debug\KillWindow.pdb
+F:\Demura架构\SEICHITech\FrameWork\Tools\KillWindow\obj\Debug\KillWindow.csprojResolveAssemblyReference.cache

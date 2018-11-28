@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelGeneralInformation>
+	<Name>SEI CHI TOOL</Name>
+	<Version>1.0.0.1</Version>
+	<FormSkin>WarmColor1.ssk</FormSkin>
+	<StationName>Demura</StationName>
+	<TestFileName>TestDemo.xml</TestFileName>
+	<ControlCardFileName>PCI9014CardConfig.xml</ControlCardFileName>
+	<IOCardFileName></IOCardFileName>
+	<PGFileName>SZPGConfig.xml</PGFileName>
+	<DemuraConfigFileName>IIXConfig.xml</DemuraConfigFileName>
+	<PanelStationCount>4</PanelStationCount>
+	<LoopTest>false</LoopTest>
+	<TestStartModel>AutoReadByScan</TestStartModel>
+	<IsStartButtonVisiable>false</IsStartButtonVisiable>
+</ModelGeneralInformation>

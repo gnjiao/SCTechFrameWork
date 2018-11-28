@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FunctionModules>
+	<SingleFunctionModule Name="操作界面">
+		<LoadingPanel>SEICHITechDemuraTool.CustomMainPanel</LoadingPanel>
+	</SingleFunctionModule>
+	<SingleFunctionModule Name="相机设置">
+		<LoadingPanel></LoadingPanel>
+	</SingleFunctionModule>
+	<SingleFunctionModule Name="轴卡设置">
+		<LoadingPanel>SEICHITechDemuraTool.AxisCardSetting</LoadingPanel>
+	</SingleFunctionModule>
+	<SingleFunctionModule Name="模组设置">
+		<LoadingPanel>SEICHITechDemuraTool.ModelRecipeSetting</LoadingPanel>
+	</SingleFunctionModule>
+	<SingleFunctionModule Name="画面设置">
+		<LoadingPanel>SEICHITechDemuraTool.PictureColorSetting</LoadingPanel>
+	</SingleFunctionModule>
+	<SingleFunctionModule Name="用户设置">
+		<LoadingPanel></LoadingPanel>
+	</SingleFunctionModule>
+</FunctionModules>

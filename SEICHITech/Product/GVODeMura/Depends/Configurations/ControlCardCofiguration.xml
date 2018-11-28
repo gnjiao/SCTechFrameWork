@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ControlCards Type="PCI9014">
+	<ModuleInformation>HardWareInterFaces|HardWareInterFaces.PCI9014CardFunc</ModuleInformation>
+	<AxisCard Num="0" Name="转盘">
+		<HomeModel>2</HomeModel>
+		<PreMMPulse>20000.00</PreMMPulse>
+		<MinSpeed>20000</MinSpeed>
+		<MaxSpeed>200000</MaxSpeed>
+		<DecSpedd>40000</DecSpedd>
+		<AccSpeed>40000</AccSpeed>
+		<WorkPosition>60000</WorkPosition>
+		<WorkPosition>60000</WorkPosition>
+		<WorkPosition>60000</WorkPosition>
+		<WorkPosition>60000</WorkPosition>
+	</AxisCard>
+	<AxisCard Num="1" Name="相机轴Z1">
+		<HomeModel>2</HomeModel>
+		<PreMMPulse>20000.00</PreMMPulse>
+		<MinSpeed>20000</MinSpeed>
+		<MaxSpeed>200000</MaxSpeed>
+		<DecSpedd>40000</DecSpedd>
+		<AccSpeed>40000</AccSpeed>
+		<WorkPosition>60000</WorkPosition>
+	</AxisCard>
+	<AxisCard Num="2" Name="相机轴Z2">
+		<HomeModel>2</HomeModel>
+		<PreMMPulse>20000.00</PreMMPulse>
+		<MinSpeed>20000</MinSpeed>
+		<MaxSpeed>200000</MaxSpeed>
+		<DecSpedd>40000</DecSpedd>
+		<AccSpeed>40000</AccSpeed>
+		<WorkPosition>60000</WorkPosition>
+	</AxisCard>
+	<AxisCard Num="3" Name="相机轴Z3">
+		<HomeModel>2</HomeModel>
+		<PreMMPulse>20000.00</PreMMPulse>
+		<MinSpeed>20000</MinSpeed>
+		<MaxSpeed>200000</MaxSpeed>
+		<DecSpedd>40000</DecSpedd>
+		<AccSpeed>40000</AccSpeed>
+		<WorkPosition>60000</WorkPosition>
+	</AxisCard>
+	<AxisCard Num="4" Name="相机轴Z4">
+		<HomeModel>2</HomeModel>
+		<PreMMPulse>20000.00</PreMMPulse>
+		<MinSpeed>20000</MinSpeed>
+		<MaxSpeed>200000</MaxSpeed>
+		<DecSpedd>40000</DecSpedd>
+		<AccSpeed>40000</AccSpeed>
+		<WorkPosition>60000</WorkPosition>
+	</AxisCard>
+</ControlCards>

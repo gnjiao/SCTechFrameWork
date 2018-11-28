@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ControlCards Type="PCI9014">
+  <ModuleInformation>HardWareInterFaces.dll|HardWareInterFaces.PCI9014CardFunc</ModuleInformation>
+  <AxisCard Num="0" Name="转盘">
+    <HomeModel>1</HomeModel>
+	<MoveStyle>1</MoveStyle>
+    <PreMMPulse>20000.00</PreMMPulse>
+    <MinSpeed>20000</MinSpeed>
+    <MaxSpeed>200000</MaxSpeed>
+    <DecSpeed>40000</DecSpeed>
+    <AccSpeed>40000</AccSpeed>
+	<HomeBackDis>20000</HomeBackDis>
+    <WorkPosition>60000</WorkPosition>
+    <WorkPosition>60000</WorkPosition>
+    <WorkPosition>60000</WorkPosition>
+    <WorkPosition>60000</WorkPosition>
+  </AxisCard>
+  <AxisCard Num="1" Name="相机轴Z1">
+    <HomeModel>1</HomeModel>
+	<MoveStyle>1</MoveStyle>
+    <PreMMPulse>20000.00</PreMMPulse>
+    <MinSpeed>9999</MinSpeed>
+    <MaxSpeed>9999</MaxSpeed>
+    <DecSpeed>9999</DecSpeed>
+    <AccSpeed>9999</AccSpeed>
+	<HomeBackDis>20000</HomeBackDis>
+    <WorkPosition>9999</WorkPosition>
+  </AxisCard>
+  <AxisCard Num="2" Name="相机轴Z2">
+    <HomeModel>1</HomeModel>
+	<MoveStyle>1</MoveStyle>
+    <PreMMPulse>20000.00</PreMMPulse>
+    <MinSpeed>4444</MinSpeed>
+    <MaxSpeed>44444</MaxSpeed>
+    <DecSpeed>4444</DecSpeed>
+    <AccSpeed>444</AccSpeed>
+	<HomeBackDis>20000</HomeBackDis>
+    <WorkPosition>44</WorkPosition>
+  </AxisCard>
+  <AxisCard Num="3" Name="相机轴Z3">
+    <HomeModel>1</HomeModel>
+	<MoveStyle>1</MoveStyle>
+    <PreMMPulse>20000.00</PreMMPulse>
+    <MinSpeed>20000</MinSpeed>
+    <MaxSpeed>200000</MaxSpeed>
+    <DecSpeed>40000</DecSpeed>
+    <AccSpeed>40000</AccSpeed>
+	<HomeBackDis>20000</HomeBackDis>
+    <WorkPosition>60000</WorkPosition>
+  </AxisCard>
+  <AxisCard Num="4" Name="相机轴Z4">
+    <HomeModel>1</HomeModel>
+	<MoveStyle>1</MoveStyle>
+    <PreMMPulse>20000.00</PreMMPulse>
+    <MinSpeed>20000</MinSpeed>
+    <MaxSpeed>200000</MaxSpeed>
+    <DecSpeed>40000</DecSpeed>
+    <AccSpeed>40000</AccSpeed>
+	<HomeBackDis>20000</HomeBackDis>
+    <WorkPosition>60000</WorkPosition>
+  </AxisCard>
+</ControlCards>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IOCards>
+	<TotalPort>48</TotalPort>
+	<InputPorts>
+		<InputPort Name="" BitNO="">
+			<Enable>True</Enable>
+			<InitialLevel>1</InitialLevel>
+			<RespondeMethod></RespondeMethod>
+		</InputPort>
+	</InputPorts>
+</IOCards>

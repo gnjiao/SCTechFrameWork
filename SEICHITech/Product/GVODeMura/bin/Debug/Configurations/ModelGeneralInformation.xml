@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelGeneralInformation>
+	<Name>SEI CHI TOOL</Name>
+	<Version>1.0.0.1</Version>
+	<LoopTest>false</LoopTest>
+	<StationName>Demura</StationName>
+	<TestFileName>TestDemo.xml</TestFileName>
+	<ActionFileName>WorkAction.dll|WorkAction.DoAction</ActionFileName>
+	<ControlCardFileName>ControlCardConfiguration.xml</ControlCardFileName>
+	<IOCardFileName>IOConfiguration.xml</IOCardFileName>
+	<CameraConfigFileName>CameraConfiguration.xml</CameraConfigFileName>
+	<AddNewModules>开发模式|SEICHITechDemuraTool.ScDemuraModel</AddNewModules>
+	<ModelRecipeFileName>Recipe.xml</ModelRecipeFileName>
+	<FormSkin>./Skins/DeepCyan.ssk</FormSkin>
+	<PanelStationCount>4</PanelStationCount>
+	<TestStartModel>AutoReadByScan</TestStartModel>
+	<IsStartButtonVisiable>false</IsStartButtonVisiable>
+</ModelGeneralInformation>

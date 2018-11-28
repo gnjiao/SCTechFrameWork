@@ -1,0 +1,67 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "..\..\FrameWork\Common\Common.csproj", "{CC81CCF0-D85A-4DC9-ADB8-FD221AE2A9DF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SEICHITechDemuraTool", "..\..\FrameWork\SEICHITechDemuraTool\SEICHITechDemuraTool.csproj", "{977764C4-06FF-42FE-92FB-660BC27380F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "..\..\FrameWork\Model\Model.csproj", "{2E2A5FFC-5577-42B1-B7BD-2E15569E5578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkAction", "..\..\FrameWork\Action\WorkAction.csproj", "{09666567-9D82-47C8-9C29-D705C0B344E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardWareInterFaces", "..\..\FrameWork\HardWareInterFaces\HardWareInterFaces.csproj", "{343776AD-2631-4B83-B4BE-F93514537776}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GifAnimation", "..\..\FrameWork\Tools\GifAnimation\GifAnimation.csproj", "{6A803919-66AF-4F3E-9DBB-13052E0570E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KillWindow", "..\..\FrameWork\Tools\KillWindow\KillWindow.csproj", "{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tools", "Tools", "{0E516B38-37B7-415D-8D9C-72C83540AC65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC81CCF0-D85A-4DC9-ADB8-FD221AE2A9DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC81CCF0-D85A-4DC9-ADB8-FD221AE2A9DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC81CCF0-D85A-4DC9-ADB8-FD221AE2A9DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC81CCF0-D85A-4DC9-ADB8-FD221AE2A9DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{977764C4-06FF-42FE-92FB-660BC27380F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{977764C4-06FF-42FE-92FB-660BC27380F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{977764C4-06FF-42FE-92FB-660BC27380F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{977764C4-06FF-42FE-92FB-660BC27380F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E2A5FFC-5577-42B1-B7BD-2E15569E5578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E2A5FFC-5577-42B1-B7BD-2E15569E5578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E2A5FFC-5577-42B1-B7BD-2E15569E5578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E2A5FFC-5577-42B1-B7BD-2E15569E5578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09666567-9D82-47C8-9C29-D705C0B344E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09666567-9D82-47C8-9C29-D705C0B344E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09666567-9D82-47C8-9C29-D705C0B344E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09666567-9D82-47C8-9C29-D705C0B344E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343776AD-2631-4B83-B4BE-F93514537776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343776AD-2631-4B83-B4BE-F93514537776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343776AD-2631-4B83-B4BE-F93514537776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343776AD-2631-4B83-B4BE-F93514537776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A803919-66AF-4F3E-9DBB-13052E0570E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A803919-66AF-4F3E-9DBB-13052E0570E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A803919-66AF-4F3E-9DBB-13052E0570E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A803919-66AF-4F3E-9DBB-13052E0570E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A803919-66AF-4F3E-9DBB-13052E0570E2} = {0E516B38-37B7-415D-8D9C-72C83540AC65}
+		{65ECD9E9-A7FE-4DC0-9CE4-851C3084EFB7} = {0E516B38-37B7-415D-8D9C-72C83540AC65}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {475286C6-0285-4E41-BB44-0FFD939897BA}
+	EndGlobalSection
+EndGlobal

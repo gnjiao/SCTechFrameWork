@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SlaveServers>
+	<MethodInfo>HardWareInterFaces.dll|HardWareInterFaces.PGMethodDefine</MethodInfo>
+	<CameraConfig Name="Camera1" Position="#1">
+		<Enable>true</Enable>
+		<CameraIP>192.168.6.1</CameraIP>
+		<CameraPort>50001</CameraPort>
+		<PG_P_IP>192.168.6.181</PG_P_IP>
+		<PG_S_IP>192.168.6.185</PG_S_IP>
+	</CameraConfig>
+	<CameraConfig Name="Camera2" Position="#2">
+		<Enable>true</Enable>
+		<CameraIP>192.168.6.2</CameraIP>
+		<CameraPort>50002</CameraPort>
+		<PG_P_IP>192.168.6.182</PG_P_IP>
+		<PG_S_IP>192.168.6.186</PG_S_IP>
+	</CameraConfig>
+	<CameraConfig Name="Camera3" Position="#3">
+		<Enable>true</Enable>
+		<CameraIP>192.168.6.3</CameraIP>
+		<CameraPort>50003</CameraPort>
+		<PG_P_IP>192.168.6.183</PG_P_IP>
+		<PG_S_IP>192.168.6.187</PG_S_IP>
+	</CameraConfig>
+	<CameraConfig Name="Camera4" Position="#4">
+		<Enable>true</Enable>
+		<CameraIP>192.168.6.4</CameraIP>
+		<CameraPort>50004</CameraPort>
+		<PG_P_IP>192.168.6.184</PG_P_IP>
+		<PG_S_IP>192.168.6.188</PG_S_IP>
+	</CameraConfig>
+</SlaveServers>

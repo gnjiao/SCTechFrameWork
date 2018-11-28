@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Recipes>
+  <Recipe Name="G1601FP167GF_Test" ModuleName="1601_167_0821_Test" TriggerWidth="0" TriggerDelay="0" Width="720" Height="2160" PositionZ="2.000" Count="18">
+    <Pattern Color="B" Gary="32" ExposureTime="3000" Size="3">
+      <Threshold1>30</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.500</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>0.46460</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="64" ExposureTime="786" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>1.81870</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="96" ExposureTime="322" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>4.27170</Scale>
+    </Pattern>
+    <Pattern>
+    </Pattern>
+    <Pattern Color="B" Gary="192" ExposureTime="70" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>18.42800</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="224" ExposureTime="65" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>25.66980</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="32" ExposureTime="2500" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>3.63950</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="64" ExposureTime="472" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>14.39650</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="96" ExposureTime="193" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.800</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>34.08960</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="160" ExposureTime="62" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>104.67350</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="192" ExposureTime="42" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>157.65670</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="224" ExposureTime="30" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>225.67160</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="32" ExposureTime="3000" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>1.48860</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="64" ExposureTime="786" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>5.64010</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="96" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>13.27930</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="160" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>40.41540</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="192" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>60.43170</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="224" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>86.15210</Scale>
+    </Pattern>
+  </Recipe>
+  <Recipe Name="G1601FP167GF" ModuleName="1601_167_0821" TriggerWidth="0" TriggerDelay="0" Width="720" Height="2160" PositionZ="2.000" Count="18">
+    <Pattern Color="B" Gary="32" ExposureTime="3000" Size="3">
+      <Threshold1>30</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.500</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>0.46460</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="64" ExposureTime="786" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>1.81870</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="96" ExposureTime="322" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>4.27170</Scale>
+    </Pattern>
+    <Pattern>
+    </Pattern>
+    <Pattern Color="B" Gary="192" ExposureTime="70" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>18.42800</Scale>
+    </Pattern>
+    <Pattern Color="B" Gary="224" ExposureTime="65" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>25.66980</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="32" ExposureTime="2500" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>3.63950</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="64" ExposureTime="472" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>14.39650</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="96" ExposureTime="193" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.800</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>34.08960</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="160" ExposureTime="62" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>104.67350</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="192" ExposureTime="42" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>157.65670</Scale>
+    </Pattern>
+    <Pattern Color="G" Gary="224" ExposureTime="30" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>225.67160</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="32" ExposureTime="3000" Size="3">
+      <Threshold1>45</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>1.48860</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="64" ExposureTime="786" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>5.64010</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="96" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>13.27930</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="160" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>40.41540</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="192" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>60.43170</Scale>
+    </Pattern>
+    <Pattern Color="R" Gary="224" ExposureTime="3000" Size="3">
+      <Threshold1>50</Threshold1>
+      <Threshold2>150</Threshold2>
+      <Threshold3>0.700</Threshold3>
+      <Threshold4>30</Threshold4>
+      <OffsetH>5</OffsetH>
+      <OffsetW>7</OffsetW>
+      <Scale>86.15210</Scale>
+    </Pattern>
+  </Recipe>
+</Recipes>
