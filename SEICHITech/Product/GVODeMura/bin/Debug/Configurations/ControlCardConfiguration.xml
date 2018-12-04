@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ControlCards Type="PCI9014">
-  <ModuleInformation>HardWareInterFaces.dll|HardWareInterFaces.PCI9014CardFunc</ModuleInformation>
+  <ModuleInformation>AxisCtrlLib.dll|AxisCtrlLib.PCI9014CardFunc</ModuleInformation>
   <AxisCard Num="0" Name="转盘">
     <HomeModel>1</HomeModel>
 	<MoveStyle>1</MoveStyle>

@@ -1,0 +1,5 @@
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\AxisCtrlLib.dll
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\AxisCtrlLib.pdb
+E:\Demura架构\SEICHITech\FrameWork\AxisCtrlLib\obj\Debug\AxisCtrlLib.csprojResolveAssemblyReference.cache
+E:\Demura架构\SEICHITech\FrameWork\AxisCtrlLib\obj\Debug\AxisCtrlLib.dll
+E:\Demura架构\SEICHITech\FrameWork\AxisCtrlLib\obj\Debug\AxisCtrlLib.pdb

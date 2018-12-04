@@ -1,8 +1,3 @@
-E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.dll
-E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.pdb
-E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
-E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.dll
-E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.pdb
 G:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.dll
 G:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.pdb
 G:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
@@ -18,3 +13,8 @@ F:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.pdb
 F:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
 F:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.dll
 F:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.pdb
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.dll
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\Model.pdb
+E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.dll
+E:\Demura架构\SEICHITech\FrameWork\Model\obj\Debug\Model.pdb

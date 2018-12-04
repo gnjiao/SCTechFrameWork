@@ -13,7 +13,7 @@
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -51,6 +51,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="UserControl\AnalysisPicture.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl\AnalysisPicture.Designer.cs">
+      <DependentUpon>AnalysisPicture.cs</DependentUpon>
+    </Compile>
     <Compile Include="UserControl\ModelRecipeSetting.cs">
       <SubType>UserControl</SubType>
     </Compile>
@@ -143,6 +149,9 @@
     <Compile Include="UserControl\ChildPanel.Designer.cs">
       <DependentUpon>ChildPanel.cs</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="UserControl\AnalysisPicture.resx">
+      <DependentUpon>AnalysisPicture.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="UserControl\ModelRecipeSetting.resx">
       <DependentUpon>ModelRecipeSetting.cs</DependentUpon>
     </EmbeddedResource>
@@ -208,9 +217,18 @@
       <Project>{09666567-9d82-47c8-9c29-d705c0b344e4}</Project>
       <Name>WorkAction</Name>
     </ProjectReference>
+    <ProjectReference Include="..\AlgoriCtrlLib\AlgoriCtrlLib.csproj">
+      <Project>{c0e3ad19-4ae0-4e4a-9dcd-422a59107b02}</Project>
+      <Name>AlgoriCtrlLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CamerCtrlLib\CamerCtrlLib.csproj">
+      <Project>{f178b10d-04a1-4698-9a4f-0a7cdf43adf2}</Project>
+      <Name>CamerCtrlLib</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{32cb64d7-ebef-48f0-8a25-8d1a2b51505f}</Project>
       <Name>Common</Name>
+      <Private>True</Private>
     </ProjectReference>
     <ProjectReference Include="..\HardWareInterFaces\HardWareInterFaces.csproj">
       <Project>{343776ad-2631-4b83-b4be-f93514537776}</Project>
@@ -219,6 +237,10 @@
     <ProjectReference Include="..\Model\Model.csproj">
       <Project>{2e2a5ffc-5577-42b1-b7bd-2e15569e5578}</Project>
       <Name>Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RaydiumCtrlLib\RaydiumCtrlLib.csproj">
+      <Project>{16c1ef46-9448-44b8-a410-624561b5f1b6}</Project>
+      <Name>RaydiumCtrlLib</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

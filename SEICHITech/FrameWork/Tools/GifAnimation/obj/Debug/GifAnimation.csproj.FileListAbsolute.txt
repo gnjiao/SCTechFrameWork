@@ -21,3 +21,10 @@ F:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.G
 F:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.csproj.GenerateResource.Cache
 F:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.exe
 F:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.pdb
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\GifAnimation.exe
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\GifAnimation.pdb
+E:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.csprojResolveAssemblyReference.cache
+E:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.GifShow.resources
+E:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.csproj.GenerateResource.Cache
+E:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.exe
+E:\Demura架构\SEICHITech\FrameWork\Tools\GifAnimation\obj\Debug\GifAnimation.pdb

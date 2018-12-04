@@ -1,0 +1,5 @@
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\ViewWorksVA47MLib.dll
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\ViewWorksVA47MLib.pdb
+E:\Demura架构\SEICHITech\FrameWork\CamerCtrlLib\obj\Debug\CamerCtrlLib.csprojResolveAssemblyReference.cache
+E:\Demura架构\SEICHITech\FrameWork\CamerCtrlLib\obj\Debug\ViewWorksVA47MLib.dll
+E:\Demura架构\SEICHITech\FrameWork\CamerCtrlLib\obj\Debug\ViewWorksVA47MLib.pdb

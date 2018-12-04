@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SlaveServers>
-	<MethodInfo>HardWareInterFaces.dll|HardWareInterFaces.PGMethodDefine</MethodInfo>
+	<MethodInfo>PGCtrlLib.dll|PGCtrlLib.SZPGDeMuraCtrl</MethodInfo>
 	<CameraConfig Name="Camera1" Position="#1">
 		<Enable>true</Enable>
 		<CameraIP>192.168.6.1</CameraIP>

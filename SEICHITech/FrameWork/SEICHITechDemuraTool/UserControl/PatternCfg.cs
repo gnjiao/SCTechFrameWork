@@ -12,9 +12,9 @@ namespace SEICHITechDemuraTool
 {
     public partial class PatternCfg : UserControl
     {
-        public static int RedColor = 0;
-        public static int GreenColor = 0;
-        public static int BlueColor = 0;
+        public int RedColor = 0;
+        public int GreenColor = 0;
+        public int BlueColor = 0;
 
         public PatternCfg(string Value)
         {
@@ -48,22 +48,29 @@ namespace SEICHITechDemuraTool
 
         private void ShowColor(object sender, EventArgs e)
         {
-            Control ctrlinfo = (Control)sender;
+            try
+            {
+                Control ctrlinfo = (Control)sender;
 
-            if (ctrlinfo.Name.Contains("Red"))
-            {
-                RedColor = Convert.ToInt32(ctrlinfo.Text);
+                if (ctrlinfo.Name.Contains("Red"))
+                {
+                    RedColor = Convert.ToInt32(ctrlinfo.Text);
+                }
+                else if (ctrlinfo.Name.Contains("Green"))
+                {
+                    GreenColor = Convert.ToInt32(ctrlinfo.Text);
+                }
+                else
+                {
+                    BlueColor = Convert.ToInt32(ctrlinfo.Text);
+                }
+                Color color = Color.FromArgb(RedColor, GreenColor, BlueColor);
+                this.ColorPBox.BackColor = color;
             }
-            else if (ctrlinfo.Name.Contains("Green"))
+            catch (Exception ex)
             {
-                GreenColor = Convert.ToInt32(ctrlinfo.Text);
+                MessageBox.Show(ex.Message);
             }
-            else
-            {
-                BlueColor = Convert.ToInt32(ctrlinfo.Text);
-            }
-            Color color = Color.FromArgb(RedColor, GreenColor, BlueColor);
-            this.ColorPBox.BackColor = color;
         }
     }
 }

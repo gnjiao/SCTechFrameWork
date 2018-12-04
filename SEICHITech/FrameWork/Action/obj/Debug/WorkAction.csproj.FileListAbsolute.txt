@@ -13,3 +13,8 @@ F:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\WorkAction.pdb
 F:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.csprojResolveAssemblyReference.cache
 F:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.dll
 F:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.pdb
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\WorkAction.dll
+E:\Demura架构\SEICHITech\Product\GVODeMura\bin\Debug\WorkAction.pdb
+E:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.csprojResolveAssemblyReference.cache
+E:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.dll
+E:\Demura架构\SEICHITech\FrameWork\Action\obj\Debug\WorkAction.pdb

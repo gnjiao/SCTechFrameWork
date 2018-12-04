@@ -9,7 +9,7 @@ namespace Model
     /// <remarks/>
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = false)]
     [System.Xml.Serialization.XmlRootAttribute(Namespace = "", IsNullable = false)]
     public partial class Recipes
     {
@@ -21,7 +21,7 @@ namespace Model
     /// <remarks/>
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = false)]
     public partial class Recipe
     {
         /// <remarks/>
@@ -38,55 +38,55 @@ namespace Model
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte TriggerWidth { get; set; }
+        public int TriggerWidth { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte TriggerDelay { get; set; }
+        public int TriggerDelay { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public ushort Width { get; set; }
+        public int Width { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public ushort Height { get; set; }
+        public int Height { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public decimal PositionZ { get; set; }
+        public double PositionZ { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte Count { get; set; }
+        public int Count { get; set; }
     }
 
     /// <remarks/>
     [System.SerializableAttribute()]
     [System.ComponentModel.DesignerCategoryAttribute("code")]
-    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = true)]
+    [System.Xml.Serialization.XmlTypeAttribute(AnonymousType = false)]
     public partial class Pattern
     {
         /// <remarks/>
-        public byte Threshold1 { get; set; }
+        public int Threshold1 { get; set; }
 
         /// <remarks/>
-        public byte Threshold2 { get; set; }
+        public int Threshold2 { get; set; }
 
         /// <remarks/>
-        public decimal Threshold3 { get; set; }
+        public double Threshold3 { get; set; }
 
         /// <remarks/>
-        public byte Threshold4 { get; set; }
+        public int Threshold4 { get; set; }
 
         /// <remarks/>
-        public byte OffsetH { get; set; }
+        public int OffsetH { get; set; }
 
         /// <remarks/>
-        public byte OffsetW { get; set; }
+        public int OffsetW { get; set; }
 
         /// <remarks/>
-        public decimal Scale { get; set; }
+        public double Scale { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
@@ -94,14 +94,14 @@ namespace Model
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte Gary { get; set; }
+        public string Gary { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public ushort ExposureTime { get; set; }
+        public int ExposureTime { get; set; }
 
         /// <remarks/>
         [System.Xml.Serialization.XmlAttributeAttribute()]
-        public byte Size { get; set; }
+        public int Size { get; set; }
     }
 }

@@ -20,6 +20,7 @@ namespace Common
                 // ftp用户名和密码
                 reqFTP.Credentials = new NetworkCredential(username, password);
                 reqFTP.Method = WebRequestMethods.Ftp.ListDirectoryDetails;
+                reqFTP.Timeout = 3000;
                 WebResponse response = reqFTP.GetResponse();
                 StreamReader reader = new StreamReader(response.GetResponseStream());//中文文件名
 

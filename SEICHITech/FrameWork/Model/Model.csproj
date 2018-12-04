@@ -20,7 +20,7 @@
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
-    <PlatformTarget>AnyCPU</PlatformTarget>
+    <PlatformTarget>x64</PlatformTarget>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ComPort.cs" />
     <Compile Include="Context.cs" />
     <Compile Include="ModelCameraInfo.cs" />
     <Compile Include="ModelControlCardsCofiguration.cs" />
@@ -54,6 +55,7 @@
     <ProjectReference Include="..\Common\Common.csproj">
       <Project>{32cb64d7-ebef-48f0-8a25-8d1a2b51505f}</Project>
       <Name>Common</Name>
+      <Private>True</Private>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
